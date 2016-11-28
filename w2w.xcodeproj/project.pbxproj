@@ -12,9 +12,22 @@
 		8F5ED62B1DD2D423009DAE25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F5ED6291DD2D423009DAE25 /* Main.storyboard */; };
 		8F5ED62D1DD2D423009DAE25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F5ED62C1DD2D423009DAE25 /* Assets.xcassets */; };
 		8F5ED6301DD2D423009DAE25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F5ED62E1DD2D423009DAE25 /* LaunchScreen.storyboard */; };
+		8F5ED6381DD2D651009DAE25 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8F5ED6371DD2D651009DAE25 /* GoogleService-Info.plist */; };
+		8FA66ECE1DD2DE21004E9AAC /* clip-art-weather.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FA66EC61DD2DE21004E9AAC /* clip-art-weather.png */; };
+		8FA66ECF1DD2DE21004E9AAC /* female.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8FA66EC71DD2DE21004E9AAC /* female.jpg */; };
+		8FA66ED01DD2DE21004E9AAC /* globe.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FA66EC81DD2DE21004E9AAC /* globe.png */; };
+		8FA66ED21DD2DE21004E9AAC /* salmon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8FA66ECA1DD2DE21004E9AAC /* salmon.jpg */; };
+		8FA66ED41DD2DE21004E9AAC /* stickfigure.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FA66ECC1DD2DE21004E9AAC /* stickfigure.png */; };
+		8FA66ED51DD2DE21004E9AAC /* teal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8FA66ECD1DD2DE21004E9AAC /* teal.jpg */; };
+		8FA66ED91DD2DF60004E9AAC /* white-t-shirt-clip-art-cliparts-co-LNwkjn-clipart-Recovered.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FA66ED81DD2DF60004E9AAC /* white-t-shirt-clip-art-cliparts-co-LNwkjn-clipart-Recovered.png */; };
+		8FA66EDB1DD2E8CF004E9AAC /* Tutorial2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA66EDA1DD2E8CF004E9AAC /* Tutorial2ViewController.swift */; };
+		8FA66EDD1DD2EC53004E9AAC /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA66EDC1DD2EC53004E9AAC /* MainViewController.swift */; };
+		EDFEE94058C241DA54932BC6 /* Pods_w2w.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 258761A77613345E1757C203 /* Pods_w2w.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		258761A77613345E1757C203 /* Pods_w2w.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_w2w.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F099168911B2E96749C61A9 /* Pods-w2w.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-w2w.debug.xcconfig"; path = "Pods/Target Support Files/Pods-w2w/Pods-w2w.debug.xcconfig"; sourceTree = "<group>"; };
 		8F5ED6221DD2D423009DAE25 /* w2w.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = w2w.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F5ED6251DD2D423009DAE25 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8F5ED6271DD2D423009DAE25 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +35,17 @@
 		8F5ED62C1DD2D423009DAE25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8F5ED62F1DD2D423009DAE25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F5ED6311DD2D423009DAE25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F5ED6371DD2D651009DAE25 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		8FA66EC61DD2DE21004E9AAC /* clip-art-weather.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clip-art-weather.png"; sourceTree = "<group>"; };
+		8FA66EC71DD2DE21004E9AAC /* female.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = female.jpg; sourceTree = "<group>"; };
+		8FA66EC81DD2DE21004E9AAC /* globe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = globe.png; sourceTree = "<group>"; };
+		8FA66ECA1DD2DE21004E9AAC /* salmon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = salmon.jpg; sourceTree = "<group>"; };
+		8FA66ECC1DD2DE21004E9AAC /* stickfigure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stickfigure.png; sourceTree = "<group>"; };
+		8FA66ECD1DD2DE21004E9AAC /* teal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = teal.jpg; sourceTree = "<group>"; };
+		8FA66ED81DD2DF60004E9AAC /* white-t-shirt-clip-art-cliparts-co-LNwkjn-clipart-Recovered.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "white-t-shirt-clip-art-cliparts-co-LNwkjn-clipart-Recovered.png"; sourceTree = "<group>"; };
+		8FA66EDA1DD2E8CF004E9AAC /* Tutorial2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tutorial2ViewController.swift; sourceTree = "<group>"; };
+		8FA66EDC1DD2EC53004E9AAC /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		C51017F9D6336254E7D07D76 /* Pods-w2w.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-w2w.release.xcconfig"; path = "Pods/Target Support Files/Pods-w2w/Pods-w2w.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +53,28 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDFEE94058C241DA54932BC6 /* Pods_w2w.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5E98F56B67D634366C82A7D1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				258761A77613345E1757C203 /* Pods_w2w.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		8F5ED6191DD2D422009DAE25 = {
 			isa = PBXGroup;
 			children = (
 				8F5ED6241DD2D423009DAE25 /* w2w */,
 				8F5ED6231DD2D423009DAE25 /* Products */,
+				C310519F63F62D4DAE83BA79 /* Pods */,
+				5E98F56B67D634366C82A7D1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +89,33 @@
 		8F5ED6241DD2D423009DAE25 /* w2w */ = {
 			isa = PBXGroup;
 			children = (
+				8FA66ED81DD2DF60004E9AAC /* white-t-shirt-clip-art-cliparts-co-LNwkjn-clipart-Recovered.png */,
+				8FA66EC61DD2DE21004E9AAC /* clip-art-weather.png */,
+				8FA66EC71DD2DE21004E9AAC /* female.jpg */,
+				8FA66EC81DD2DE21004E9AAC /* globe.png */,
+				8FA66ECA1DD2DE21004E9AAC /* salmon.jpg */,
+				8FA66ECC1DD2DE21004E9AAC /* stickfigure.png */,
+				8FA66ECD1DD2DE21004E9AAC /* teal.jpg */,
+				8F5ED6371DD2D651009DAE25 /* GoogleService-Info.plist */,
 				8F5ED6251DD2D423009DAE25 /* AppDelegate.swift */,
 				8F5ED6271DD2D423009DAE25 /* ViewController.swift */,
+				8FA66EDA1DD2E8CF004E9AAC /* Tutorial2ViewController.swift */,
+				8FA66EDC1DD2EC53004E9AAC /* MainViewController.swift */,
 				8F5ED6291DD2D423009DAE25 /* Main.storyboard */,
 				8F5ED62C1DD2D423009DAE25 /* Assets.xcassets */,
 				8F5ED62E1DD2D423009DAE25 /* LaunchScreen.storyboard */,
 				8F5ED6311DD2D423009DAE25 /* Info.plist */,
 			);
 			path = w2w;
+			sourceTree = "<group>";
+		};
+		C310519F63F62D4DAE83BA79 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8F099168911B2E96749C61A9 /* Pods-w2w.debug.xcconfig */,
+				C51017F9D6336254E7D07D76 /* Pods-w2w.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +125,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8F5ED6341DD2D423009DAE25 /* Build configuration list for PBXNativeTarget "w2w" */;
 			buildPhases = (
+				73B59360A1A59F4CBE24C51A /* [CP] Check Pods Manifest.lock */,
 				8F5ED61E1DD2D423009DAE25 /* Sources */,
 				8F5ED61F1DD2D423009DAE25 /* Frameworks */,
 				8F5ED6201DD2D423009DAE25 /* Resources */,
+				66E539120973D12CF15A3D7A /* [CP] Embed Pods Frameworks */,
+				2011B9BE68EE46F3C6DCA3EC /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -124,6 +181,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FA66ECE1DD2DE21004E9AAC /* clip-art-weather.png in Resources */,
+				8FA66ED51DD2DE21004E9AAC /* teal.jpg in Resources */,
+				8FA66ED21DD2DE21004E9AAC /* salmon.jpg in Resources */,
+				8FA66ED41DD2DE21004E9AAC /* stickfigure.png in Resources */,
+				8FA66ED91DD2DF60004E9AAC /* white-t-shirt-clip-art-cliparts-co-LNwkjn-clipart-Recovered.png in Resources */,
+				8FA66ED01DD2DE21004E9AAC /* globe.png in Resources */,
+				8FA66ECF1DD2DE21004E9AAC /* female.jpg in Resources */,
+				8F5ED6381DD2D651009DAE25 /* GoogleService-Info.plist in Resources */,
 				8F5ED6301DD2D423009DAE25 /* LaunchScreen.storyboard in Resources */,
 				8F5ED62D1DD2D423009DAE25 /* Assets.xcassets in Resources */,
 				8F5ED62B1DD2D423009DAE25 /* Main.storyboard in Resources */,
@@ -132,13 +197,63 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2011B9BE68EE46F3C6DCA3EC /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-w2w/Pods-w2w-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		66E539120973D12CF15A3D7A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-w2w/Pods-w2w-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		73B59360A1A59F4CBE24C51A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		8F5ED61E1DD2D423009DAE25 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				8F5ED6281DD2D423009DAE25 /* ViewController.swift in Sources */,
+				8FA66EDB1DD2E8CF004E9AAC /* Tutorial2ViewController.swift in Sources */,
 				8F5ED6261DD2D423009DAE25 /* AppDelegate.swift in Sources */,
+				8FA66EDD1DD2EC53004E9AAC /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +374,7 @@
 		};
 		8F5ED6351DD2D423009DAE25 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8F099168911B2E96749C61A9 /* Pods-w2w.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ZK44ZC3844;
@@ -272,6 +388,7 @@
 		};
 		8F5ED6361DD2D423009DAE25 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C51017F9D6336254E7D07D76 /* Pods-w2w.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ZK44ZC3844;
@@ -302,6 +419,7 @@
 				8F5ED6361DD2D423009DAE25 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
